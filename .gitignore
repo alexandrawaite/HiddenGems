@@ -1,0 +1,14 @@
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+*.sw?
+
+# IntelliJ IDEA Files
+
+*.iml
+*.ipr
+*.iws
+.idea
+
+target/
