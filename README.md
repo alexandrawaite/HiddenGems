@@ -1,6 +1,6 @@
 # Hidden Gems
 
-A music application to discover hidden gems from around the world. How many of you have heard music from Bangladesh? What about Tanzania? This application allows you to explore music by countries to unearth musical treasures.
+A music application to discover hidden gems from around the world. How many of you have heard music from Bangladesh? What about Tanzania? This application allows you to explore artists by countries to unearth musical treasures.
 
 This REST API is built with Java, Spring Boot (version 1.5.9) and Maven. 
 
