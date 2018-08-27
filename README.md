@@ -4,7 +4,7 @@ A music application to discover hidden gems from around the world. How many of y
 
 This REST API is built with Java, Spring Boot (version 1.5.9) and Maven. 
 
-# RESTful API Design -
+# RESTful API Design
 
 The following REST endpoints are available:
 
